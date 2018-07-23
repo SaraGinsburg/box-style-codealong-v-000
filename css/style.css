@@ -207,6 +207,9 @@ header {
   margin: 0 0 30px;
 }
 
+
+/*////////// NAVBAR //////////*/
+
 #navbar {
   position: fixed;
   top: 0;
@@ -305,9 +308,6 @@ background: linear-gradient(
   rgba(0, 0, 0, 1) 100%
 ); /* W3C */
 }
-/*////////// NAVBAR //////////*/
-
-
 
 /*////////// LOGO //////////*/
 
